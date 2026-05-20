@@ -46,7 +46,7 @@
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img align="left" width="48%" src="https://streak-stats.demolab.com/?user=Mostafa-Ibrahem-EG&theme=react&border=61dafb&hide_border=true" alt="Mostafa's Streak" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+ <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Ibrahem-EG&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
@@ -57,7 +57,7 @@
   </a>
 </div>
 <br>
-
+ -->
 <hr>
 
 <h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
