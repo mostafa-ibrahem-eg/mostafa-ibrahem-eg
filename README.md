@@ -42,37 +42,39 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
+<p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img align="left" width="48%" src="https://streak-stats.demolab.com/?user=Mostafa-Ibrahem-EG&theme=react&border=61dafb&hide_border=true" alt="Mostafa's Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Mostafa-Ibrahem-EG&theme=react&border=61dafb&hide_border=true" alt="Mostafa's Streak" />
   </a>
- <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Ibrahem-EG&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-<br><br><br><br><br><br><br><br><br>
-<div align="center">
+</p>
+
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Ibrahem-EG&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mostafa-Ibrahem-EG&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Mostafa's GitHub Stats" />
   </a>
-</div>
-<br>
- -->
-<br><br><br><br><br><br>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mostafa-Ibrahem-EG&theme=react&layout=compact&border_color=61dafb&hide_border=true" alt="Mostafa's Top Languages" />
+  </a>
+</p>
+
 <hr>
 
 <h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
 <br>
-<div align="center">
+<p align="center">
   <a href="https://github.com/Mostafa-Ibrahem-EG/logIn-signUp-pages">
-    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-Ibrahem-EG&repo=logIn-signUp-pages&theme=react&border_color=61dafb&border_radius=10" />
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mostafa-Ibrahem-EG&repo=logIn-signUp-pages&theme=react&border_color=61dafb&border_radius=10" />
   </a>
+  <br><br>
   <a href="https://github.com/Mostafa-Ibrahem-EG/Mawaquit-ElSalat">
-    <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mostafa-Ibrahem-EG&repo=Mawaquit-ElSalat&theme=react&border_color=61dafb&border_radius=10" />
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mostafa-Ibrahem-EG&repo=Mawaquit-ElSalat&theme=react&border_color=61dafb&border_radius=10" />
   </a>
-</div>
-<br><br><br><br><br><br>
+</p>
 
+<br>
 <h4 align="center">
   <a href="https://github.com/Mostafa-Ibrahem-EG?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
