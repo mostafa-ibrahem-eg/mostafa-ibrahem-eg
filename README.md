@@ -43,26 +43,26 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <a href="https://github.com/Mostafa-Ibrahem-EG">
     <img src="https://streak-stats.demolab.com/?user=Mostafa-Ibrahem-EG&theme=react&border=61dafb&hide_border=true" alt="Mostafa's Streak" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Mostafa-Ibrahem-EG">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mostafa-Ibrahem-EG&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Mostafa's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Mostafa-Ibrahem-EG">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mostafa-Ibrahem-EG&theme=react&layout=compact&border_color=61dafb&hide_border=true" alt="Mostafa's Top Languages" />
   </a>
 </p>
 
 <hr>
 
-<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
+<h2 align="center">## 👨‍💻 Featured Projects 👨‍💻</h2>
 <br>
 <p align="center">
   <a href="https://github.com/Mostafa-Ibrahem-EG/logIn-signUp-pages">
